@@ -1,0 +1,16 @@
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\OddEvenPrime.Test.dll
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\OddEvenPrime.Test.pdb
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\obj\Debug\OddEvenPrime.Test.csprojResolveAssemblyReference.cache
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\obj\Debug\OddEvenPrime.Test.csproj.CoreCompileInputs.cache
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\obj\Debug\OddEvenPrime.Test.dll
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\obj\Debug\OddEvenPrime.Test.pdb
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\OddEvenPrime.exe
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\OddEvenPrime.pdb
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime.Test\bin\Debug\OddEvenPrime.exe.config

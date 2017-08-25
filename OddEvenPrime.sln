@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenPrime", "OddEvenPrime\OddEvenPrime.csproj", "{37DFBBB8-0D9E-4C89-9CA4-9ACDC3389C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenPrime.Test", "OddEvenPrime.Test\OddEvenPrime.Test.csproj", "{2DD73A5D-A545-42C9-B084-A0D7F220563E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37DFBBB8-0D9E-4C89-9CA4-9ACDC3389C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DFBBB8-0D9E-4C89-9CA4-9ACDC3389C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DFBBB8-0D9E-4C89-9CA4-9ACDC3389C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DFBBB8-0D9E-4C89-9CA4-9ACDC3389C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD73A5D-A545-42C9-B084-A0D7F220563E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD73A5D-A545-42C9-B084-A0D7F220563E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD73A5D-A545-42C9-B084-A0D7F220563E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD73A5D-A545-42C9-B084-A0D7F220563E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D7A7ADC-C1BA-45E2-B9E8-55CB00CC4FB3}
+	EndGlobalSection
+EndGlobal

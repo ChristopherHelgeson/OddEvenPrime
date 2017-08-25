@@ -1,0 +1,7 @@
+c:\users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime\bin\Debug\OddEvenPrime.exe.config
+c:\users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime\bin\Debug\OddEvenPrime.exe
+c:\users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime\bin\Debug\OddEvenPrime.pdb
+c:\users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime\obj\Debug\OddEvenPrime.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime\obj\Debug\OddEvenPrime.exe
+c:\users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime\obj\Debug\OddEvenPrime.pdb
+C:\Users\chris\documents\visual studio 2017\Projects\OddEvenPrime\OddEvenPrime\obj\Debug\OddEvenPrime.csproj.CoreCompileInputs.cache
