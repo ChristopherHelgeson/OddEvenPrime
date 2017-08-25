@@ -39,7 +39,6 @@ namespace OddEvenPrime
 
         public static Boolean IsPrime(int number)
         {
-            if (number == 0) return false;
             if (number == 1) return false;
             if (number == 2) return true;
 
